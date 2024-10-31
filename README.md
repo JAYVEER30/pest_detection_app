@@ -1,1 +1,1 @@
-# pest-detection
+# pest_detection_app
